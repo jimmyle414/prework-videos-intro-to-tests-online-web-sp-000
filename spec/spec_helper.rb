@@ -1,7 +1,7 @@
 
 RSpec.configure do |config|
   # Adds color configuration
-  config.failure_color = :brown # or whateer color you like
+  config.failure_color = :yellow # or whateer color you like
   config.success_color = :pink
 
   config.expect_with :rspec do |expectations|
